@@ -1,2 +1,2 @@
-This is the description of my repo
-Modification in feature-greeting branch.
+# GitHub Clone Project
+Objective: Practice branching, merging, and conflict resolution in Git
